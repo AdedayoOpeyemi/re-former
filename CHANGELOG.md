@@ -11,3 +11,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Setup User model and controller.
 - Create new users.
+- Edit and update existing user
